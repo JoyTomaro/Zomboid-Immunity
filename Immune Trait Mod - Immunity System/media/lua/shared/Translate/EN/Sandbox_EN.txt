@@ -1,0 +1,9 @@
+Sandbox_EN = {
+	Sandbox_TomaroImmunity = "Immune Trait Mod",
+
+	Sandbox_TomaroImmunity_ImmuneChance = "Immune Chance (%)",
+	Sandbox_TomaroImmunity_ImmuneChance_tooltip = "% Chance of being immune to the virus on spawn.",
+
+	Sandbox_TomaroImmunity_WaitPeriod = "Wait Period (Hours)",
+	Sandbox_TomaroImmunity_WaitPeriod_tooltip = "Hours required to wait before inspecting a bite.",
+}

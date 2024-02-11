@@ -1,0 +1,9 @@
+UI_EN = {
+--------------------------------------
+Immune Trait
+--------------------------------------
+
+    UI_trait_Immune = "Immune",
+    UI_trait_Immunedesc = "Think you're the protagonist or something?",
+    
+}

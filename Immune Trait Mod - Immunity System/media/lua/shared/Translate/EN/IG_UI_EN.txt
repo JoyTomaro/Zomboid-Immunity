@@ -1,0 +1,9 @@
+IGUI_EN = {
+    IGUI_Say_Ready = "I should check on that bite.",
+    IGUI_Say_ResultImmune = "Test Result: Immune",
+    IGUI_Say_ResultInfected = "Test Result: Infected",
+    
+    IGUI_Say_HoursSince1 = " hours since bite.",
+    IGUI_Say_HoursSince2 = "I should check again in ",
+    IGUI_Say_HoursSince3 = " hours.",
+}

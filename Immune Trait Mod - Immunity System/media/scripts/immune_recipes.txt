@@ -1,0 +1,14 @@
+module ImmuneRecipes
+{
+	recipe Examine Yourself
+	{
+		keep Scalpel,
+		CottonBalls/AlcoholedCottonBalls,
+
+		Result:CottonBalls,
+        RemoveResultItem:true,
+		Time:1500,
+		Category:Health,
+		OnCreate:ISInspectBite,
+	}
+}

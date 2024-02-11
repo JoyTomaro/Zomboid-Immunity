@@ -1,0 +1,12 @@
+UI_EN = {
+--------------------------------------
+Immune Trait
+--------------------------------------
+
+    UI_trait_Immune = "Immune",
+    UI_trait_Immunedesc = "Think you're the protagonist or something?",
+
+    UI_trait_CommonBlood = "Common Blood",
+    UI_trait_CommonBlooddesc = "No one special. You are not immune to the virus.",
+
+}
